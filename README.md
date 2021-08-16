@@ -1,5 +1,5 @@
-+ Hi, I’m @Alec236
-+ I’m interested in exploring the career field.
++ Hi, I’m @Alec236. I am a third year computer science student at Michigan Tech.
++ I’m interested in exploring the many different careers related to my degree.
 + I’m currently taking classes on artificial intelligence, and systems programming.
 
 
