@@ -1,4 +1,4 @@
-+ Hi, I’m @Alec236. I am a third year computer science student at Michigan Tech.
++ Hi, I’m @Alec-Trent. I am a third year computer science student at Michigan Tech.
 + I’m interested in exploring the many different careers related to my degree.
 + I’m currently taking classes on artificial intelligence, and systems programming.
 + Outside of work my hobbies include cars, computers, cornhole, longboarding, and motorcycles.
