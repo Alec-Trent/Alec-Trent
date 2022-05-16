@@ -1,4 +1,4 @@
-+ Hi, I’m @Alec-Trent. I graduated from Michigan Tech with a BS in computer science.
++ Hi, I’m @Alec-Trent. I graduated from Michigan Tech with a BS in Computer Science.
 + I’m interested in exploring the many different careers related to my degree.
 + Outside of work my hobbies include cars, computers, longboarding, and motorcycles.
 
